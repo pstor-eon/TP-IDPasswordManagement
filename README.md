@@ -12,6 +12,17 @@
 3. 필요한 라이브러리를 설치합니다.
 4. 프로그램을 실행합니다.
 
+### 사용 방법
+1. Python 3.x 버전이 필요합니다. 필요한 라이브러리를 설치합니다..
+```python
+pip install sqlite3
+pip install cryptography
+```
+2. 파이썬을 실행합니다.
+```python
+python password_manager.py
+```
+
 ### 기여 방법
 이 프로젝트에 기여하고 싶으시다면, 다음의 단계를 따라 해 주세요.
 
