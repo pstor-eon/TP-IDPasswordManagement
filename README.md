@@ -13,7 +13,7 @@
 4. 프로그램을 실행합니다.
 
 ### 사용 방법
-1. Python 3.x 버전이 필요합니다. 필요한 라이브러리를 설치합니다..
+1. Python 3.x 버전이 필요합니다. 필요한 라이브러리를 설치합니다.
 ```python
 pip install sqlite3
 pip install cryptography
